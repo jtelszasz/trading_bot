@@ -43,7 +43,7 @@ class Strategy:
 		self.name = name
 
 class MovingAvgStrategy(Strategy):
-	"""   """
+	""" implementing simple moving average strategy """
 
 
 	def __init__(self):
