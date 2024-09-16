@@ -1,2 +1,4 @@
 config.py
 log.csv
+.idea
+.idea/*
